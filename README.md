@@ -1,7 +1,7 @@
 # Collections
 A place to keep my miscellaneous stuff...
 
-**[`Recipes`](#recipes)**, **[`Quotes`](#quotes)**, **[`Books`](#books)**
+**[`Recipes`](recipes.md)**, **[`Quotes`](quotes.md)**, **[`Books`](books.md)**
 
 ## To Do:
 1. Move recipes over here.
