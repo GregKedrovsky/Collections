@@ -1,5 +1,5 @@
 # Collections
-A place to keep my miscellaneous stuff...
+A place to keep my miscellaneous "[text file](https://sive.rs/plaintext)" stuff...
 
 **[`Recipes`](recipes.md)**, **[`Quotes`](quotes.md)**, **[`Books`](books.md)**
 
