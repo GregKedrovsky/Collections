@@ -3,7 +3,7 @@
 ## CONTENTS
 
 - Intro: Terms & Concepts
-  - [`Miscellany`](#Miscellany), [`Money`](#Money), [`Fiat Currency`](#Fiat-Currency), [`Virtual Currency`](#Virtual-Currency), [`Tokens`](Tokens), [`Stable Coins`](#Stable-Coins), [`Currency Exchanges`](#Currency-Exchanges)
+  - [`Miscellany`](#miscellany), [`Money`](#money), [`Fiat Currency`](#fiat-currency), [`Virtual Currency`](#virtual-currency), [`Tokens`](tokens), [`Stable Coins`](#stable-coins), [`Currency Exchanges`](#currency-exchanges)
 
 - Blockchains
   - [`Decentralized, Peer-to-Peer Network`](#decentralized-peer-to-peer-network), [`Blockchain Blocks`](#Blockchain-Blocks), [`Blockchain Growth`](#Blockchain-Growth)
@@ -113,6 +113,8 @@
 **Decentralized:** Currency that does not have any central authority (crypto currency; open-source; peer-to-peer currency; math-based)
 - Therefore, "crypto-currency" is decentralized because it is math based).
 
+[`top`](#Virtual-Currency)
+
 ### Tokens
 
 - Crypto tokens are cryptocurrency tokens. Cryptocurrencies or virtual currencies are denominated into these tokens, which reside on their own blockchains.
@@ -125,6 +127,8 @@
 
 **Category #2:** Security Tokens: heavily regulate, value tied to a company itself
 
+[`top`](#Virtual-Currency)
+
 ### Stable Coins
 
 A subset of cryptocurrency, attempts to offer stability
@@ -133,12 +137,16 @@ A subset of cryptocurrency, attempts to offer stability
 - **PROS:** borderless, fast, public ledger system
 - **CONS:** centralized, audios, lower ROI growth
 
+[`top`](#Virtual-Currency)
+
 ### Currency Exchanges
 
 Online platforms to exchange one currency to another, and to fiat also
 - CoinBase (be familiar with this; sign up to see how it works)
 - BitStamp (based in UK)
 - Binance.com (French-based); Binance.US
+
+[`top`](#Virtual-Currency)
 
 ----
 
@@ -154,6 +162,8 @@ In 2008, with the onset of the financial crisis (housing bubble), BitCoin comes 
 - **Decentralized:** multiple authorities working in conjunction
 - **Peer-to-Peer:** no centralized authority whatsoever
 
+[`top`](#Virtual-Currency)
+
 ### Decentralized, Peer-to-Peer Network
 
 - Network of peer-to-peer nodes. Anyone can run a node. Participation is voluntary
@@ -165,6 +175,8 @@ In 2008, with the onset of the financial crisis (housing bubble), BitCoin comes 
   - The current BitCoin blockchain is about 250GB
   - The current Ethereum blockchain is about 1TB
 
+[`top`](#Virtual-Currency)
+
 ### Blockchain Blocks
 
 The "blocks" of a blockchain consist of:
@@ -173,6 +185,8 @@ The "blocks" of a blockchain consist of:
    - Data is hashed and the value is added to the block's header; and then...
    - That hash value is added to the next block's header to "chain" each block with the subsequent
    - This is the protection against data manipulation.
+
+[`top`](#Virtual-Currency)
 
 ### Blockchain Growth
 
@@ -193,6 +207,8 @@ The original Bitcoin blockchain has been altered and adapted for newer digital c
 - Identify and protect the creators of the works
 - Track the sale and transfer of property
 - ID management. Hospitality management. Loyalty programs. Cross-border payments. Elections.
+
+[`top`](#Virtual-Currency)
 
 ----
 
@@ -241,6 +257,8 @@ Because of this, solo staking is prohibitive for the little guys so they pool mi
 
 **Delegating:** similar to pool mining... to avoid the prohibitive buy-in cost.
 
+[`top`](#Virtual-Currency)
+
 ### Miners
 
 **Solo Mining:** Miner works alone to solve the cryptographic puzzle.
@@ -258,6 +276,8 @@ Because of this, solo staking is prohibitive for the little guys so they pool mi
 - The total hashrate is the hashrate of all workers
 - Measurements: Current = Active (now); Average = over time (should be close to your current)
 
+[`top`](#Virtual-Currency)
+
 ### Mining Tools
 
 **Mining Software:** Multiple mining applications; some examples from Ethereum...
@@ -268,6 +288,8 @@ Because of this, solo staking is prohibitive for the little guys so they pool mi
 
 **Mining Manager:** [Awesome Miner](https://www.awesomeminer.com/)
 - "All in one" utility giving you granular control over mining processes.
+
+[`top`](#Virtual-Currency)
 
 ### Tracing & Tracking
 
@@ -292,6 +314,8 @@ Some mining pools require account creations (Slushpool, BTC.com; lots of BitCoin
   - IP Addresses
   - Notification Email Addresses
   - Payment addresses
+
+[`top`](#Virtual-Currency)
 
 ----
 
@@ -319,6 +343,8 @@ Some mining pools require account creations (Slushpool, BTC.com; lots of BitCoin
 
 **BTC:** The common abbreviation used to identify a value in Bitcoin; i.e., USD, EUR, GBP, etc.
 
+[`top`](#Virtual-Currency)
+
 ### Definition & Description
 
 Bitcoin is a decentralized, peer-to-peer, blockchain-based cryptocurrency.
@@ -331,6 +357,8 @@ Bitcoin is limited: 21 million bitcoins (20,999,999.9769)
 
 Bitcoin can be divided up to 8 decimal places: .000 000 01 BTC
 - It's lowest denominator known as a satoshi.
+
+[`top`](#Virtual-Currency)
 
 ### Bitcoin Address
 
@@ -345,12 +373,16 @@ This is your public key that you provide to others to send you money.
 - P2WPKH (alias: Bech32) - Starts with bc1
 - P2WPH  (alias: Bech32) - Starts with bc1
 
+[`top`](#Virtual-Currency)
+
 ### Private Key
 
 Your private key (of the private/public key pair) is your "secret value."
 - It is needed to sign transactions and spend bitcoin (it is your "digital signature").
 - It is a 256-bit number (can be displayed in a variety of ways)
 - It is mathematically related to a public key.
+
+[`top`](#Virtual-Currency)
 
 ### Wallets
 
@@ -416,6 +448,8 @@ Wallets are important if you want to seize Bitcoin. In order to seize Bitcoin, y
 - Public and private keys printed out (or represented by QR codes)
 - This is also "cold storage"
 
+[`top`](#Virtual-Currency)
+
 ----
 
 ## Bitcoin: How It Works
@@ -432,6 +466,8 @@ Outgoing transactions are called **OUTPUTS**.
 - If you spend LESS than the INPUT, you get another (new) input for the "change" (an additional output, along with what you "spent/sent"). This way inputs and outputs are EQUAL, but then you would receive an input for the "change."
 - When you spend it, the wallet uses the least number of inputs for the transaction
 - If you combine inputs to make one (larger) output, the two inputs are shredded and the total becomes one input for the recipient.
+
+[`top`](#Virtual-Currency)
 
 ----
 
@@ -456,6 +492,8 @@ The blockchain makes the adjustment using a variable "Difficulty Level."
 - This adjustment is made approximately every two weeks.
 
 **Difficulty Estimator:** https://www.bitrawr.com/difficulty-estimator
+
+[`top`](#Virtual-Currency)
 
 ----
 
@@ -489,6 +527,8 @@ The blockchain makes the adjustment using a variable "Difficulty Level."
 - Therefore when you see two (or more) addresses used to send funds, you can assume the ALL those input addresses are controlled by the same wallet (i.e., the same perp).
 - And you can thereby associate more Bitcoin addresses with the perp to trace him and track him.
 
+[`top`](#Virtual-Currency)
+
 ----
 
 ## Ethereum
@@ -520,6 +560,8 @@ Ethereum's cryptocurrency token, represented by ETH
 - Used to pay transaction fees (gas)
 - Can also be "traded" like Bitcoin
 
+[`top`](#Virtual-Currency)
+
 ----
 ## Ethereum: Wallet Types
 
@@ -527,19 +569,25 @@ Wallets are also called "clients" or "nodes." They are applications (software) t
 - A wallet will hold the keys associated with an account/user.
 - A wallet is used to initiate transactions.
 
-## Wallet Categories
+[`top`](#Virtual-Currency)
+
+### Wallet Categories
 Wallets can be grouped into two categories:
 **1. Full Node:** maintains full copy of the blockchain; requires significant computer recourses.
 - validates all transactions (no third-party required); more difficult to use
 **2. Lite Node:** Partial copy of the blockchain, less resources
 - relies on third-party transaction verification; easier.
 
-## Wallet Types:
+[`top`](#Virtual-Currency)
+
+### Wallet Types:
 **1. Desktop Wallets:** Can be partial or lite; MetaMask, Atomic Wallet, Exodus, Parity Ethereum, et al. Referred to as a "hot" wallet (attached to the network, live).
 **2. Mobile Wallets:** Installed and run on phone or tablet, iOS or Android. Lite nodes; Jaxx Liberty, Coinomi, Trust Wallet. Also a hot wallet. 
 **3. Web/Online Wallets:** Web sites/apps, wallet stored and maintained by online entity MyEtherWallet, MyCrypto, coinbase, Kraken, Bittrex. Another hot wallet.
 **4. Hardware Wallets:** Piece of hardware, looks like a usb device; Ledger, Trezor, keepkey. Referred to as a "cold" wallet (the hardware/physical device must be connected to transfer funds)
 **5. Paper Wallets:** A piece of paper; keys (public and private) printed on the paper can include a QR code to scan. Also referred to as a cold wallet (because you gotta get online to trade, etc.).
+
+[`top`](#Virtual-Currency)
 
 ----
 
@@ -560,6 +608,8 @@ Ethereum has two types of accounts (two types of addresses):
 - Has an ether balance
 - Received transactions trigger the contract's code
 
+[`top`](#Virtual-Currency)
+
 ----
 
 ## Ethereum: Transactions
@@ -574,10 +624,14 @@ Ethereum has two types of accounts (two types of addresses):
 - Init: code to initiate a contract
 - Data: variable data payload (eth, message, data, etc.)
 
+[`top`](#Virtual-Currency)
+
 ### Transaction Types (Funds Transfers)
 1. Funds Transfer (similar to bitcoint): eth from sender to recipient.
 2. Creating a Contract Account (Smart Contract): a transaction in which you create a contract (address created)
 3. Trigger a Contract Account: a transaction that... triggers a smart contract (the program runs).
+
+[`top`](#Virtual-Currency)
 
 ----
 
@@ -598,6 +652,8 @@ Smart contract code is written in a high-level language.
 - [Solidity](https://docs.soliditylang.org/en/v0.8.15/) is the most frequently used language
 - Compiled into EVM bytecode before execution
 
+[`top`](#Virtual-Currency)
+
 ----
 
 ## Ethereum: The EVM
@@ -610,6 +666,8 @@ The Ethereum protocol itself exists solely for the purpose of keeping the contin
 
 Source: https://ethereum.org/en/developers/docs/evm/
 
+[`top`](#Virtual-Currency)
+
 ----
 
 ## Ethereum: Distributed Apps
@@ -619,6 +677,8 @@ Distributed Apps are just smart contracts taken to the next level: they contain 
 The goal with distributed apps is to decentralized all aspects of an application: code execution, payments, storage, messaging, etc.
 
 Not all DApps are completely descentralized: some rely on some centralization. 
+
+[`top`](#Virtual-Currency)
 
 ----
 
@@ -643,6 +703,7 @@ The components of DeFi are stablecoins, software, and hardware that enables the 
 
 Source: https://www.investopedia.com/decentralized-finance-defi-5113835
 
+[`top`](#Virtual-Currency)
 
 ----
 
@@ -663,6 +724,8 @@ Examples:
 - [Uniswap](https://uniswap.org/)
 - [Sushiswap](https://sushi.com/)
 
+[`top`](#Virtual-Currency)
+
 ----
 
 ## Ethereum: Yield Farming
@@ -679,6 +742,8 @@ Each pool on a DEX has to have to both tokens (Eth/USDC)
 Differences between farming and staking:
 - Farming requires two types of Crypto minimum (Eth/USDC for example)
 - With Faring you may receive a different amount of crypto back.
+
+[`top`](#Virtual-Currency)
 
 ----
 
@@ -697,6 +762,8 @@ Miners are rewarded Ether for solving the PoW problem
 - Two newly minted Ether + all transaction fees (the "gas").
 
 Blocks are chained together by their hashes; a block's parent hash is the previous block's hash.
+
+[`top`](#Virtual-Currency)
 
 ----
 
@@ -754,6 +821,8 @@ NFTs are great for money laundering because...
 - Pay for NFT with Ethereum, cash out, and provide a fee to the creator.
 - Thereby "washing" your money
 
+[`top`](#Virtual-Currency)
+
 ### Rarible
 
 [Rarible](https://rarible.com/) is an NFT marketplace
@@ -761,6 +830,8 @@ NFTs are great for money laundering because...
 On the Ethernet Network, an NFT from Rarible shows up as a "RARI Token 2" (or RARI Token 1)
 
 Can chat with NFT owner: https://chat.blockscan.com/start  (on the Ethereum Network)
+
+[`top`](#Virtual-Currency)
 
 ----
 
@@ -802,6 +873,8 @@ Fees are required for maintaining the backing reserve, legal compliance, and aud
 
 Therefore they must have the fiat or commodity on hand.
 
+[`top`](#Virtual-Currency)
+
 ### Purpose
 
 Stablecoins are digital assets that aim to **manage volatility**.
@@ -811,12 +884,16 @@ Stablecoins are digital assets that aim to **manage volatility**.
 - Most frequent concern with digital assets is volatility.
 - Stablecoins could allow global acceptance of crypto.
 
+[`top`](#Virtual-Currency)
+
 ### Examples
 
 Different Stable Coins:
 - Terra Luna
 - Tether
 - Others: https://coinmarketcap.com/view/stablecoin/
+
+[`top`](#Virtual-Currency)
 
 ----
 
@@ -852,6 +929,8 @@ Every Monero public address begins with 43 and has 95 characters in length.
 
 Three prongs are built into Monero's privacy process...
 
+[`top`](#Virtual-Currency)
+
 ### Stealth Address (recipient)
 
 This is the "Secret View Key". It is part of the inherent privacy of Monero.
@@ -869,6 +948,8 @@ Public addresses NEVER appear on the blockchain (it's the stealth key).
 
 When you launch your wallet, Monero scans the blockchain and checks for transactions where you are the recipient (your "secret view key").
 
+[`top`](#Virtual-Currency)
+
 ### Ring Signature (sender)
 
 The ring **signature** protects the sender, the **signer**.
@@ -879,11 +960,15 @@ The ring **signature** protects the sender, the **signer**.
 - Over the course of time, past outputs could be used multiple times to form possible signer participants.
 - In a "ring" of possible signers, all ring members are equal and valid... obfuscates the trail... of who sent (signed) the transaction. Sender's signature is obfuscated by the other random "decoys."
 
+[`top`](#Virtual-Currency)
+
 ### RingCT (transaction)
 
 The RingCT: Ring Confidential Transactions
 - Hides the source and the amounts of funds sent; cannot be seen on the blockchain.
 - They do this by applying mathematical function to all funds such that the public observers can see that the transactions are legitimate, but only the sender and receiver can know the amount.
+
+[`top`](#Virtual-Currency)
 
 ### Mining
 
@@ -892,6 +977,8 @@ CryptoNight Proof of Work consensus algorithm
 - CPU based mining (vs. GPU based like bitcoin)
 - like bitcoin, contains a degree of difficulty to maintain the two-minute cycle
 - Block numbers are referred to as the "height"
+
+[`top`](#Virtual-Currency)
 
 ----
 
@@ -910,6 +997,8 @@ Document! Document! Document what you do!
   - Easy to get click-happy
   - Slow and steady wins the race; be clean and efficient
 
+[`top`](#Virtual-Currency)
+
 ### Screenshots
 
 Screenies are your friend...
@@ -922,6 +1011,8 @@ Screenies are your friend...
   - snip as much info as you can (time/date, url, et al -- any info critical/important)
   - be consistent in your methodology
 
+[`top`](#Virtual-Currency)
+
 ### Screen Recorders
 
 Screen recorders can give a better picture of the flow of information. 
@@ -933,6 +1024,8 @@ Screen recorders can give a better picture of the flow of information.
   - TechSmith SnagIt / Camtasia
 - Be careful: it will likely record audio, and you do not want that in your file unless it's supposed to be there.
 
+[`top`](#Virtual-Currency)
+
 ### Hunchly 
 
 Hunchly is a chrome extension, paid ($$) utility
@@ -942,6 +1035,8 @@ Hunchly is a chrome extension, paid ($$) utility
 - Automatically scan for keywords
 - Can capture images(preserves metadata)
 - All data is stored locally (can be imported and exported)
+
+[`top`](#Virtual-Currency)
 
 ### Step 1: Identify Keys
 
@@ -980,6 +1075,8 @@ Hunchly is a chrome extension, paid ($$) utility
 **Bitcoin Transaction ID:**
 - A 32-byte hexadecimal value (256 bit hash of the transaction)
 - If you can obtain this, you have a direct link to the transaction in question (and from there you can trace to sender, receiver, etc.)
+
+[`top`](#Virtual-Currency)
 
 ### Step 2: Trace Transactions
 
@@ -1025,6 +1122,8 @@ Follow this routine, in order (then run through it again for additional addresse
 - [BSCScan](https://bscscan.com/): 
 - Others: [Chainz CryptoID](https://chainz.cryptoid.info/), [CoinGecko](https://www.coingecko.com/), [CoinMarketCap](https://coinmarketcap.com/)
 
+[`top`](#Virtual-Currency)
+
 ----
 
 ## Links & Resources
@@ -1036,8 +1135,12 @@ https://coinmarketcap.com/
 - it also has a "news" section for each currency
 https://start.me/p/m6r1AM/virtual-currency-course-links
 
+[`top`](#Virtual-Currency)
+
 ### BitCoin Terms
 https://bitcoin.org/en/vocabulary
+
+[`top`](#Virtual-Currency)
 
 ### Explorers, BitCoin
 https://www.blockchain.com/explorer
@@ -1046,12 +1149,18 @@ https://www.blockcypher.com/
 https://live.blockcypher.com/
 https://explorer.crystalblockchain.com/ (might show the owner of the account)
 
+[`top`](#Virtual-Currency)
+
 ### Explorers, Ethereum
 https://etherscan.io/
+
+[`top`](#Virtual-Currency)
 
 ### Explorers, Other
 BSCScan: https://bscscan.com/
 Wallet Explorer: https://www.walletexplorer.com/
+
+[`top`](#Virtual-Currency)
 
 ### Exchanges
 - Coinbase: https://www.coinbase.com/
@@ -1059,22 +1168,36 @@ Wallet Explorer: https://www.walletexplorer.com/
 - Coinbase Pro Example: https://pro.coinbase.com/trade/BTC-USD
 - Peer-to-Peer Exchange: https://localbitcoins.com/
 
+[`top`](#Virtual-Currency)
+
 ### BitCoin ATMs 
 https://coinatmradar.com/
 - This site will have contact info for the providers of the ATMs (to contact them during investigations)
 - The only people who use ATMs are criminals and victims: the surcharge is astronomical and the fees are robbery.
 
+[`top`](#Virtual-Currency)
+
 ### NFTs
 Rarible: https://rarible.com/
 Chat with NFT owner: https://chat.blockscan.com/start  (on the Ethereum Network)
+
+[`top`](#Virtual-Currency)
 
 ### Trackers
 https://www.cointracker.io/
 Blockonomics: https://www.blockonomics.co/
 
+[`top`](#Virtual-Currency)
+
 ### Crypto Abuse
 Public "Reporting" of Abuse: https://www.bitcoinabuse.com/
+
+[`top`](#Virtual-Currency)
+
+### Visualization
 
 Visualization with Crystal Blockchain Explorer:
 - Do your investigation first. Trace the funds. THEN use this to visualize it.
 https://explorer.crystalblockchain.com/visualization/new/1NDyJtNTjmwk5xPNhjgAMu4HDHigtobu1s
+
+[`top`](#Virtual-Currency)
