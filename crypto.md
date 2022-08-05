@@ -2,17 +2,13 @@
 
 ## CONTENTS
 
-- Intro: Terms & Concepts
-  - [`Miscellany`](#miscellany), [`Money`](#money), [`Fiat Currency`](#fiat-currency), [`Virtual Currency`](#virtual-currency), [`Tokens`](tokens), [`Stable Coins`](#stable-coins), [`Currency Exchanges`](#currency-exchanges)
+- Intro: Terms & Concepts: [`Miscellany`](#miscellany), [`Money`](#money), [`Fiat Currency`](#fiat-currency), [`Virtual Currency`](#virtual-currency), [`Tokens`](tokens), [`Stable Coins`](#stable-coins), [`Currency Exchanges`](#currency-exchanges)
 
-- Blockchains
-  - [`Decentralized, Peer-to-Peer Network`](#decentralized-peer-to-peer-network), [`Blockchain Blocks`](#Blockchain-Blocks), [`Blockchain Growth`](#Blockchain-Growth)
+- Blockchains: [`Decentralized, Peer-to-Peer Network`](#decentralized-peer-to-peer-network), [`Blockchain Blocks`](#Blockchain-Blocks), [`Blockchain Growth`](#Blockchain-Growth)
 
-- Mining
-  - [`Definition`](#definition), [`Miners`](#miners), [`Mining Tools`](#mining-tools), [`Tracing & Tracking`](#tracing--Tracking)
+- Mining: [`Definition`](#definition), [`Miners`](#miners), [`Mining Tools`](#mining-tools), [`Tracing & Tracking`](#tracing--Tracking)
 
-- Bitcoin
-  - [`Terms`](#terms), [`Definition & Description`](#definition--description), [`Bitcoin Address`](#bitcoin-address), [`Private Key`](#private-key), [`Wallets`](#wallets), [`Bitcoin: How It Works`](#bitcoin-how-it-works), [`Bitcoin: Mining`](#bitcoin-mining), [`Bitcoin: Explorers`](#bitcoin-explorers)
+- Bitcoin: [`Terms`](#terms), [`Definition & Description`](#definition--description), [`Bitcoin Address`](#bitcoin-address), [`Private Key`](#private-key), [`Wallets`](#wallets), [`Bitcoin: How It Works`](#bitcoin-how-it-works), [`Bitcoin: Mining`](#bitcoin-mining), [`Bitcoin: Explorers`](#bitcoin-explorers)
 
 - Ethereum
   - Ethereum: Wallet Types
