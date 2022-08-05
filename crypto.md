@@ -2,10 +2,6 @@
 
 ## CONTENTS
 
-# Virtual Currency
-
-
------------------------------------------------------------------------
 - Intro: Terms & Concepts
   - [`Miscellany`](#Miscellany), [`Money`](#Money), [`Fiat Currency`](#Fiat-Currency), [`Virtual Currency`](#Virtual-Currency), [`Tokens`](Tokens), [`Stable Coins`](#Stable-Coins), [`Currency Exchanges`](#Currency-Exchanges)
   - Miscellany
@@ -92,6 +88,8 @@
 - **Book:** American Kingpin by Nick Bilton
 - **Note:** Bitcoin is traceable, and anonymity can be broken.
 
+[`top`](#Virtual-Currency)
+
 ### Money
 
 - Defined (wikipedia): legal tender in a country (and crypto is not that, yet)
@@ -99,6 +97,8 @@
   1. Medium of Exchange: to be able to compare values of dissimilar objects.
   2. Unit of Account: money acts as a standard of measure--a common denomination of trade
   3. Store of Value: it can be saved, retrieved, and exchanged at a later time; predictable
+
+[`top`](#Virtual-Currency)
 
 ### Fiat Currency
 
