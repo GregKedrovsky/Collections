@@ -6,7 +6,7 @@
   - [`Miscellany`](#Miscellany), [`Money`](#Money), [`Fiat Currency`](#Fiat-Currency), [`Virtual Currency`](#Virtual-Currency), [`Tokens`](Tokens), [`Stable Coins`](#Stable-Coins), [`Currency Exchanges`](#Currency-Exchanges)
 
 - Blockchains
-  - [`Decentralized, Peer-to-Peer Network`](#Decentralized--Peer-to-Peer-Network), [`Blockchain Blocks`](#Blockchain-Blocks), [`Blockchain Growth`](#Blockchain-Growth)
+  - [`Decentralized, Peer-to-Peer Network`](#decentralized-peer-to-peer-network), [`Blockchain Blocks`](#Blockchain-Blocks), [`Blockchain Growth`](#Blockchain-Growth)
 
 
   - Decentralized, Peer-to-Peer Network
