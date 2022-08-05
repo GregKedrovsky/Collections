@@ -21,9 +21,9 @@
 [`Bitcoin Address`](#bitcoin-address), 
 [`Private Key`](#private-key), 
 [`Wallets`](#wallets), 
-[`Bitcoin: How It Works`](#bitcoin--how-it-works), 
-[`Bitcoin: Mining`](#bitcoin--mining), 
-[`Bitcoin: Explorers`](#bitcoin--explorers)
+[`Bitcoin: How It Works`](#bitcoin-how-it-works), 
+[`Bitcoin: Mining`](#bitcoin-mining), 
+[`Bitcoin: Explorers`](#bitcoin-explorers)
 
 - Ethereum
   - Ethereum: Wallet Types
