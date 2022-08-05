@@ -10,17 +10,7 @@
 
 - Bitcoin: [`Terms`](#terms), [`Definition & Description`](#definition--description), [`Bitcoin Address`](#bitcoin-address), [`Private Key`](#private-key), [`Wallets`](#wallets), [`Bitcoin: How It Works`](#bitcoin-how-it-works), [`Bitcoin: Mining`](#bitcoin-mining), [`Bitcoin: Explorers`](#bitcoin-explorers)
 
-- Ethereum
-  - Ethereum: Wallet Types
-  - Ethereum: Address Types
-  - Ethereum: Transactions
-  - Ethereum: Smart Contracts
-  - Ethereum: The EVM
-  - Ethereum: Distributed Apps
-  - Ethereum: DeFi
-  - Ethereum: DEX
-  - Ethereum: Yield Farming
-  - Ethereum: Mining
+- Ethereum: [`Ethereum: Wallet Types`](#ethereum-wallet-types), [`Ethereum: Address Types`](#ethereum-address-types), [`Ethereum: Transactions`](#ethereum-transactions), [`Ethereum: Smart Contracts`](#ethereum-smart-contracts), [`Ethereum: The EVM`](#ethereum-the-evm), [`Ethereum: Distributed Apps`](#ethereum-distributed-apps), [`Ethereum: DeFi`](#ethereum-defi), [`Ethereum: DEX`](#ethereum-dex), [`Ethereum: Yield Farming`](#ethereum-yield-farming), [`Ethereum: Mining`](#ethereum-mining) 
 
 - NFTs: Non-Fungible Tokens
   - Definition & Description
