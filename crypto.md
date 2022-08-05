@@ -648,7 +648,7 @@ This provides a way to track the sale of unique items such as: artwork, music, c
 - [Jack Dorsey's first tweet](https://www.forbes.com/sites/jeffkauflin/2022/04/14/why-jack-dorseys-first-tweet-nft-plummeted-99-in-value-in-a-year/?sh=43caf9b665cb): Sold for $2.9 million, originally.
 - Etc.
 
-*WHY:* What are NFTs a thing?
+**WHY:** Why are NFTs a thing?
 - Because people like collecting and owning rare, unique things. It makes them feel special.
 - It's also an excellent way to launder money from nefarious activities...
 
@@ -896,7 +896,7 @@ Hunchly is a chrome extension, paid ($$) utility
 - List of words created by a deterministic wallet
 - Used to backup your entire wallet (that can have multiple private/public key pairs)
 
-*Bitcoin Transaction ID:"
+**Bitcoin Transaction ID:**
 - A 32-byte hexadecimal value (256 bit hash of the transaction)
 - If you can obtain this, you have a direct link to the transaction in question (and from there you can trace to sender, receiver, etc.)
 
@@ -918,7 +918,7 @@ Follow this routine, in order (then run through it again for additional addresse
 4. Identify exchanges/services
    - Somewhere you might be able to serve a legal process.
 
-*Don't forget to use traditional search platforms!**
+**Don't forget to use traditional search platforms!**
 - OSInt crap, searching on the address, transaction ID, etc.
   1. Google is your friend
   2. Pastebin (dump in your address and see if it has been used before)
