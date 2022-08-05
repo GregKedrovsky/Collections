@@ -8,26 +8,22 @@
 - Blockchains
   - [`Decentralized, Peer-to-Peer Network`](#decentralized-peer-to-peer-network), [`Blockchain Blocks`](#Blockchain-Blocks), [`Blockchain Growth`](#Blockchain-Growth)
 
-
-  - Decentralized, Peer-to-Peer Network
-  - Blockchain Blocks
-  - Blockchain Growth
-
 - Mining
-  - Definition
-  - Miners
-  - Mining Tools
-  - Tracing & Tracking
+[`Definition`](#definition), 
+[`Miners`](#miners), 
+[`Mining Tools`](#mining-tools), 
+[`Tracing & Tracking`](#tracing--Tracking)
 
 - Bitcoin
-  - Terms
-  - Definition & Description
-  - Bitcoin Address
-  - Private Key
-  - Wallets
-  - Bitcoin: How It Works
-  - Bitcoin: Mining
-  - Bitcoin: Explorers
+
+[`Terms`](#terms), 
+[`Definition & Description`](#definition--description), 
+[`Bitcoin Address`](#bitcoin-address), 
+[`Private Key`](#private-key), 
+[`Wallets`](#wallets), 
+[`Bitcoin: How It Works`](#bitcoin--how-it-works), 
+[`Bitcoin: Mining`](#bitcoin--mining), 
+[`Bitcoin: Explorers`](#bitcoin--explorers)
 
 - Ethereum
   - Ethereum: Wallet Types
