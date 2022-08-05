@@ -2,41 +2,25 @@
 
 ## CONTENTS
 
-- Intro: Terms & Concepts: [`Miscellany`](#miscellany), [`Money`](#money), [`Fiat Currency`](#fiat-currency), [`Virtual Currency`](#virtual-currency-1), [`Tokens`](#tokens), [`Stable Coins`](#stable-coins), [`Currency Exchanges`](#currency-exchanges)
+- [Intro: Terms & Concepts](#intro-terms--concepts): [`Miscellany`](#miscellany), [`Money`](#money), [`Fiat Currency`](#fiat-currency), [`Virtual Currency`](#virtual-currency-1), [`Tokens`](#tokens), [`Stable Coins`](#stable-coins), [`Currency Exchanges`](#currency-exchanges)
 
-- Blockchains: [`Decentralized, Peer-to-Peer Network`](#decentralized-peer-to-peer-network), [`Blockchain Blocks`](#Blockchain-Blocks), [`Blockchain Growth`](#Blockchain-Growth)
+- [Blockchains](#blockchains): [`Decentralized, Peer-to-Peer Network`](#decentralized-peer-to-peer-network), [`Blockchain Blocks`](#Blockchain-Blocks), [`Blockchain Growth`](#Blockchain-Growth)
 
-- Mining: [`Definition`](#definition), [`Miners`](#miners), [`Mining Tools`](#mining-tools), [`Tracing & Tracking`](#tracing--Tracking)
+- [Mining](#mining): [`Definition`](#definition), [`Miners`](#miners), [`Mining Tools`](#mining-tools), [`Tracing & Tracking`](#tracing--Tracking)
 
-- Bitcoin: [`Terms`](#terms), [`Definition & Description`](#definition--description), [`Bitcoin Address`](#bitcoin-address), [`Private Key`](#private-key), [`Wallets`](#wallets), [`Bitcoin: How It Works`](#bitcoin-how-it-works), [`Bitcoin: Mining`](#bitcoin-mining), [`Bitcoin: Explorers`](#bitcoin-explorers)
+- [Bitcoin](#bitcoin): [`Terms`](#terms), [`Definition & Description`](#definition--description), [`Bitcoin Address`](#bitcoin-address), [`Private Key`](#private-key), [`Wallets`](#wallets), [`Bitcoin: How It Works`](#bitcoin-how-it-works), [`Bitcoin: Mining`](#bitcoin-mining), [`Bitcoin: Explorers`](#bitcoin-explorers)
 
-- Ethereum: [`Ethereum: Wallet Types`](#ethereum-wallet-types), [`Ethereum: Address Types`](#ethereum-address-types), [`Ethereum: Transactions`](#ethereum-transactions), [`Ethereum: Smart Contracts`](#ethereum-smart-contracts), [`Ethereum: The EVM`](#ethereum-the-evm), [`Ethereum: Distributed Apps`](#ethereum-distributed-apps), [`Ethereum: DeFi`](#ethereum-defi), [`Ethereum: DEX`](#ethereum-dex), [`Ethereum: Yield Farming`](#ethereum-yield-farming), [`Ethereum: Mining`](#ethereum-mining) 
+- [Ethereum](#ethereum): [`Ethereum: Wallet Types`](#ethereum-wallet-types), [`Ethereum: Address Types`](#ethereum-address-types), [`Ethereum: Transactions`](#ethereum-transactions), [`Ethereum: Smart Contracts`](#ethereum-smart-contracts), [`Ethereum: The EVM`](#ethereum-the-evm), [`Ethereum: Distributed Apps`](#ethereum-distributed-apps), [`Ethereum: DeFi`](#ethereum-defi), [`Ethereum: DEX`](#ethereum-dex), [`Ethereum: Yield Farming`](#ethereum-yield-farming), [`Ethereum: Mining`](#ethereum-mining) 
 
-- NFTs (Non-Fungible Tokens), 
-[`Definition & Description`](#definition--description), [`Money Laundering`](#money-laundering), [`Rarible`](#rarible)
+- [NFTs (Non-Fungible Tokens)](#nfts-non-fungible-tokens): [`Definition & Description`](#definition--description), [`Money Laundering`](#money-laundering), [`Rarible`](#rarible)
 
-- Stable Coins
-[`Purpose`](#purpose), 
-[`Examples`](#examples)
+- [Stable Coins](#stable-coins-1): [`Purpose`](#purpose), [`Examples`](#examples)
 
-- Privacy Coins: Monero
-[`Stealth Address (recipient)`](#stealth-address-recipient), [`Ring Signature (sender)`](#ring-signature-sender), [`RingCT (transaction)`](#ringct-transaction), [`Mining`](#mining)
+- [Privacy Coins](#privacy-coins-monero): [`Stealth Address (recipient)`](#stealth-address-recipient), [`Ring Signature (sender)`](#ring-signature-sender), [`RingCT (transaction)`](#ringct-transaction), [`Mining`](#mining)
 
-- Tracing Techniques
-[`Documentation`](#documentation), [`Screenshots`](#screenshots), [`Screen Recorders`](#screen-recorders), [`Hunchly `](#hunchly), [`Step 1: Identify Keys`](#step-1-identify-keys), [`Step 2: Trace Transactions`](#step-2-trace-transactions)
+- [Tracing Techniques](#tracing-techniques): [`Documentation`](#documentation), [`Screenshots`](#screenshots), [`Screen Recorders`](#screen-recorders), [`Hunchly `](#hunchly), [`Step 1: Identify Keys`](#step-1-identify-keys), [`Step 2: Trace Transactions`](#step-2-trace-transactions)
 
-- Links & Resources
-[`Start Here`](#launching-pad), 
-[`BitCoin Terms`](#bitcoin-terms), 
-[`Explorers, BitCoin`](#explorers-bitcoin), 
-[`Explorers, Ethereum`](#explorers-ethereum), 
-[`Explorers, Other`](#explorers-other), 
-[`Exchanges`](#exchanges), 
-[`BitCoin ATMs `](#bitcoin-atms), 
-[`NFTs`](#nfts), 
-[`Trackers`](#trackers), 
-[`Crypto Abuse`](#crypto-abuse), 
-[`Visualization`](#visualization)
+- [Links & Resources](#links--resources): [`Start Here`](#launching-pad), [`BitCoin Terms`](#bitcoin-terms), [`Explorers, BitCoin`](#explorers-bitcoin), [`Explorers, Ethereum`](#explorers-ethereum), [`Explorers, Other`](#explorers-other), [`Exchanges`](#exchanges), [`BitCoin ATMs `](#bitcoin-atms), [`NFTs`](#nfts), [`Trackers`](#trackers), [`Crypto Abuse`](#crypto-abuse), [`Visualization`](#visualization)
 
 ## Intro: Terms & Concepts
 
