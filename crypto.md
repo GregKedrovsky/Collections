@@ -9,21 +9,10 @@
   - [`Decentralized, Peer-to-Peer Network`](#decentralized-peer-to-peer-network), [`Blockchain Blocks`](#Blockchain-Blocks), [`Blockchain Growth`](#Blockchain-Growth)
 
 - Mining
-[`Definition`](#definition), 
-[`Miners`](#miners), 
-[`Mining Tools`](#mining-tools), 
-[`Tracing & Tracking`](#tracing--Tracking)
+  - [`Definition`](#definition), [`Miners`](#miners), [`Mining Tools`](#mining-tools), [`Tracing & Tracking`](#tracing--Tracking)
 
 - Bitcoin
-
-[`Terms`](#terms), 
-[`Definition & Description`](#definition--description), 
-[`Bitcoin Address`](#bitcoin-address), 
-[`Private Key`](#private-key), 
-[`Wallets`](#wallets), 
-[`Bitcoin: How It Works`](#bitcoin-how-it-works), 
-[`Bitcoin: Mining`](#bitcoin-mining), 
-[`Bitcoin: Explorers`](#bitcoin-explorers)
+  - [`Terms`](#terms), [`Definition & Description`](#definition--description), [`Bitcoin Address`](#bitcoin-address), [`Private Key`](#private-key), [`Wallets`](#wallets), [`Bitcoin: How It Works`](#bitcoin-how-it-works), [`Bitcoin: Mining`](#bitcoin-mining), [`Bitcoin: Explorers`](#bitcoin-explorers)
 
 - Ethereum
   - Ethereum: Wallet Types
