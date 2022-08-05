@@ -12,41 +12,31 @@
 
 - Ethereum: [`Ethereum: Wallet Types`](#ethereum-wallet-types), [`Ethereum: Address Types`](#ethereum-address-types), [`Ethereum: Transactions`](#ethereum-transactions), [`Ethereum: Smart Contracts`](#ethereum-smart-contracts), [`Ethereum: The EVM`](#ethereum-the-evm), [`Ethereum: Distributed Apps`](#ethereum-distributed-apps), [`Ethereum: DeFi`](#ethereum-defi), [`Ethereum: DEX`](#ethereum-dex), [`Ethereum: Yield Farming`](#ethereum-yield-farming), [`Ethereum: Mining`](#ethereum-mining) 
 
-- NFTs: Non-Fungible Tokens
-  - Definition & Description
-  - Money Laundering
-  - Rarible
+- NFTs (Non-Fungible Tokens), 
+[`Definition & Description`](#definition--description), [`Money Laundering`](#money-laundering), [`Rarible`](#rarible)
 
 - Stable Coins
-  - Purpose
-  - Examples
+[`Purpose`](#purpose), 
+[`Examples`](#examples)
 
 - Privacy Coins: Monero
-  - Stealth Address (recipient)
-  - Ring Signature (sender)
-  - RingCT (transaction)
-  - Mining
+[`Stealth Address (recipient)`](#stealth-address-recipient), [`Ring Signature (sender)`](#ring-signature-sender), [`RingCT (transaction)`](#ringct-transaction), [`Mining`](#mining)
 
 - Tracing Techniques
-  - Documentation
-  - Screenshots
-  - Screen Recorders
-  - Hunchly 
-  - Step 1: Identify Keys
-  - Step 2: Trace Transactions
+[`Documentation`](#documentation), [`Screenshots`](#screenshots), [`Screen Recorders`](#screen-recorders), [`Hunchly `](#hunchly), [`Step 1: Identify Keys`](#step-1-identify-keys), [`Step 2: Trace Transactions`](#step-2-trace-transactions)
 
 - Links & Resources
-  - Launching Pad
-  - BitCoin Terms
-  - Explorers, BitCoin
-  - Explorers, Ethereum
-  - Explorers, Other
-  - Exchanges
-  - BitCoin ATMs 
-  - NFTs
-  - Trackers
-  - Crypto Abuse
-  - Visualization
+[`Start Here`](#launching-pad), 
+[`BitCoin Terms`](#bitcoin-terms), 
+[`Explorers, BitCoin`](#explorers-bitcoin), 
+[`Explorers, Ethereum`](#explorers-ethereum), 
+[`Explorers, Other`](#explorers-other), 
+[`Exchanges`](#exchanges), 
+[`BitCoin ATMs `](#bitcoin-atms), 
+[`NFTs`](#nfts), 
+[`Trackers`](#trackers), 
+[`Crypto Abuse`](#crypto-abuse), 
+[`Visualization`](#visualization)
 
 ## Intro: Terms & Concepts
 
