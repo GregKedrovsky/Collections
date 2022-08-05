@@ -2,7 +2,7 @@
 
 ## CONTENTS
 
-- Intro: Terms & Concepts: [`Miscellany`](#miscellany), [`Money`](#money), [`Fiat Currency`](#fiat-currency), [`Virtual Currency`](#virtual-currency), [`Tokens`](tokens), [`Stable Coins`](#stable-coins), [`Currency Exchanges`](#currency-exchanges)
+- Intro: Terms & Concepts: [`Miscellany`](#miscellany), [`Money`](#money), [`Fiat Currency`](#fiat-currency), [`Virtual Currency`](#virtual-currency-1), [`Tokens`](#tokens), [`Stable Coins`](#stable-coins), [`Currency Exchanges`](#currency-exchanges)
 
 - Blockchains: [`Decentralized, Peer-to-Peer Network`](#decentralized-peer-to-peer-network), [`Blockchain Blocks`](#Blockchain-Blocks), [`Blockchain Growth`](#Blockchain-Growth)
 
