@@ -6,15 +6,19 @@ This recipe originally called for an 8x8 pan. That's not nearly enough. So... I 
 - 2 cups of tart apples, peeled and chopped (about 3 Granny Smiths)
 - Cinnamon sugar to sprinkle on the chopped apples: 1 tbsp sugar, 1 tbsp brown sugar, 1 tsp cinnamon
 
+
 - 1/2 cup room temperature butter
 - 2 cups light brown sugar, packed
+
 
 - 2 eggs
 - 2 teaspoon vanilla extract
 
+
 - 2 cups of all-purpose flour
 - 2 teaspoon baking powder
 - 1 teaspoon salt
+
 
 - 4 tablespoons granulated sugar (for topping)
 - 3 teaspoons ground cinnamon (for topping)
