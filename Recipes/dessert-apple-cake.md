@@ -29,7 +29,7 @@
 
 Peel and chop your apples (I use a [peeler](https://www.amazon.com/dp/B0000DZ16W/); color me lazy) and place them in a bowl. Mix the two sugars together and sprinkle it on your cubed/chopped apple pieces. Cover it and let it sit in the refrigerator for 1 hour. Yes, do this. You'll need to drain the water before you mix your apples with the cake batter.
 
-Preheat your oven. I bake mine in a convection oven at 325°F. Try 350°F in a non-convenction "normal" oven (just watch the edges; if they get too dark, cover with foil or test with a toothpick to see if it's done). The rack in the oven should be in the middle, or on the notch just above the middle.
+Preheat your oven. I bake mine in a convection oven at 325°F. Try 350°F in a non-convection "normal" oven (just watch the edges; if they get too dark, cover with foil or test with a toothpick to see if it's done). The rack in the oven should be in the middle, or on the notch just above the middle.
 
 Mix flour, baking soda, cinnamon, nutmeg, and salt in a medium bowl. Make sure it is mixed well and there are no clumps. Sift it twice if you want. Set aside.
 
