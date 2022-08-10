@@ -9,7 +9,7 @@
 - 1/2 teaspoon of salt (more to taste after mixing)
 - 1/4 stick of butter
 - 1/2 of a smallish onion (too big, too oniony)
-- 1/2 of a red pepper
+- 1/2 of a red bell pepper
 - 1/2 of a bundle of fresh cilantro
  
 ## Directions
